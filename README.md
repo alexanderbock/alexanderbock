@@ -4,7 +4,7 @@
   <img src="https://alexanderbock.github.io/images/profile.jpg" alt="profile image" width="25%">
   
   Born and raised in Germany</br>
-  Living in Sweden for 12+ years</br>
+  Living in Sweden for 15+ years</br>
   </br></br></br>
   Lead Developer of the <a href="https://openspaceproject.com">OpenSpace</a> project</br>
   <a href="https://immvis.github.io/">Immersive Visualization Group</a> at <a href="https://liu.se/">Linköping University</a>
