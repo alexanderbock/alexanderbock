@@ -1,7 +1,7 @@
 <div align="center">
   <h2>Hi, I'm Alex</h2>
 
-  <img src="https://alexanderbock.github.io/images/profile.jpg" alt="profile image" width="25%">
+  <img src="https://www.alexanderbock.eu/images/profile.webp" alt="profile image" width="25%">
   
   Born and raised in Germany</br>
   Living in Sweden for 15+ years</br>
