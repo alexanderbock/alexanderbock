@@ -6,7 +6,8 @@
   Born and raised in Germany</br>
   Living in Sweden for 15+ years</br>
   </br></br></br>
-  Lead Developer of the <a href="https://openspaceproject.com">OpenSpace</a> project</br>
+  Lead Developer of <a href="https://openspaceproject.com">OpenSpace</a>, a real-time 3D visualization engine for astronomy and immersive visualization</br>
+  <a href="https://github.com/openspaceproject/openspace">GitHub repository</a> · <a href="https://github.com/openspaceproject">openspaceproject organization</a></br>
   <a href="https://immvis.github.io/">Immersive Visualization Group</a> at <a href="https://liu.se/">Linköping University</a>
   </br></br></br>
   List of academic <a href="http://liu.diva-portal.org/smash/resultList.jsf?dswid=6469&faces-redirect=true&language=en&searchType=RESEARCH&query=&af=%5B%5D&aq=%5B%5B%7B%22authorId%22%3A%22alebo68%22%7D%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=dateIssued_sort_desc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all"> Publications</a>
