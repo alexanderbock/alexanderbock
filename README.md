@@ -12,6 +12,8 @@
   </br></br></br>
   List of academic <a href="http://liu.diva-portal.org/smash/resultList.jsf?dswid=6469&faces-redirect=true&language=en&searchType=RESEARCH&query=&af=%5B%5D&aq=%5B%5B%7B%22authorId%22%3A%22alebo68%22%7D%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=dateIssued_sort_desc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all"> Publications</a>
   </br></br></br>
+  Reach me: <a href="mailto:mail@alexanderbock.eu">email</a> · <a href="https://orcid.org/0000-0002-2849-6146">ORCID</a> · <a href="https://www.linkedin.com/in/alexanderbock1/">LinkedIn</a> · <a href="https://www.alexanderbock.eu">website</a>
+  </br></br></br>
 
   ![c++](https://img.shields.io/badge/c++-00599c?style=for-the-badge&logo=c%2B%2B)
   ![c](https://img.shields.io/badge/c-00599c?style=for-the-badge&logo=c)
