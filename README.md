@@ -3,17 +3,17 @@
 
   <img src="images/profile.webp" alt="profile image" width="25%">
 
-  Born and raised in Germany</br>
-  Living in Sweden for 15+ years</br>
-  </br></br></br>
-  Lead Developer of <a href="https://openspaceproject.com">OpenSpace</a>, a real-time 3D visualization engine for astronomy and immersive visualization</br>
-  <a href="https://github.com/openspaceproject/openspace">GitHub repository</a> · <a href="https://github.com/openspaceproject">openspaceproject organization</a></br>
+  Born and raised in Germany<br>
+  Living in Sweden for 15+ years<br>
+  <br><br><br>
+  Lead Developer of <a href="https://openspaceproject.com">OpenSpace</a>, a real-time 3D visualization engine for astronomy and immersive visualization<br>
+  <a href="https://github.com/openspaceproject/openspace">GitHub repository</a> · <a href="https://github.com/openspaceproject">openspaceproject organization</a><br>
   <a href="https://immvis.github.io/">Immersive Visualization Group</a> at <a href="https://liu.se/">Linköping University</a>
-  </br></br></br>
+  <br><br><br>
   List of academic <a href="https://www.alexanderbock.eu/academics_publications.html"> Publications</a>
-  </br></br></br>
+  <br><br><br>
   Reach me: <a href="mailto:mail@alexanderbock.eu">email</a> · <a href="https://orcid.org/0000-0002-2849-6146">ORCID</a> · <a href="https://www.linkedin.com/in/alexanderbock1/">LinkedIn</a> · <a href="https://www.alexanderbock.eu">website</a>
-  </br></br></br>
+  <br><br><br>
 
   ![c++](https://img.shields.io/badge/c++-00599c?style=for-the-badge&logo=c%2B%2B)
   ![c](https://img.shields.io/badge/c-00599c?style=for-the-badge&logo=c)
@@ -56,7 +56,7 @@
   ![youtubemusic](https://img.shields.io/badge/youtube%20music-ff0000?style=for-the-badge&logo=youtubemusic)
   ![startrek](https://img.shields.io/badge/star%20trek-ffe200?style=for-the-badge&logo=startrek&logoColor=black)
 
-  </br></br></br>
+  <br><br><br>
 
   <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
 
