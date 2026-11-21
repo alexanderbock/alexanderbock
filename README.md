@@ -7,7 +7,7 @@
   Living in Sweden for 15+ years<br>
   <br><br><br>
   Lead Developer of <a href="https://openspaceproject.com">OpenSpace</a>, a real-time 3D visualization engine for astronomy and immersive visualization<br>
-  <a href="https://github.com/openspaceproject/openspace">GitHub repository</a> · <a href="https://github.com/openspaceproject">openspaceproject organization</a><br>
+  <a href="https://github.com/OpenSpace/OpenSpace">GitHub repository</a> · <a href="https://github.com/OpenSpace">OpenSpace organization</a><br>
   <a href="https://immvis.github.io/">Immersive Visualization Group</a> at <a href="https://liu.se/">Linköping University</a>
   <br><br><br>
   List of academic <a href="https://www.alexanderbock.eu/academics_publications.html"> Publications</a>
