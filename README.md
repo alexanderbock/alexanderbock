@@ -60,11 +60,11 @@
 
   <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
 
-  [![trophy](https://github-trophies.vercel.app/?username=alexanderbock&theme=alduin&no-bg=true&no-frame=true&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-trophies.vercel.app/?username=alexanderbock&theme=onedark&no-bg=true&no-frame=true&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-  [![languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexanderbock&theme=transparent&exclude=matlab,tex,makefile)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  [![languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexanderbock&theme=onedark&exclude=matlab,tex,makefile)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-  [![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexanderbock&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  [![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexanderbock&theme=onedark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
   [![streak](https://streak-stats.demolab.com/?user=alexanderbock&theme=onedark&hide_border=true&mode=daily)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
